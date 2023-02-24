@@ -1,6 +1,6 @@
 # arxiv_rss_discord
 
-arxiv api を使って所望の最新論文を取得し、discordに投稿するスクリプト
+arxiv api を使って所望の最新論文を毎週月曜の朝に取得し、discordに投稿するスクリプト
 
 ## 事前準備
 
